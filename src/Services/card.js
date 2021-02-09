@@ -2,7 +2,6 @@ import React from "react";
 import Web from "../images/web.jpg";
 
 const Card = (prop)=>{
-	console.log(prop.imgsrc);
 	return (
 		<>
 					<div className="col-md-4 col-10 mx-auto">
