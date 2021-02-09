@@ -7,7 +7,6 @@ import Home from './Home/Home.js';
 import Contact from './Contact/Contact.js';
 import About from './About/About.js';
 import Navbar from './navbar.js'; 
-
 function App() { 
   return (
     <>
